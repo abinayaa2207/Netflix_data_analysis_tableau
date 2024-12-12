@@ -4,14 +4,20 @@ Features
 ## Interactive Search:
 
 Users can search for movies and TV shows and view details like rating, duration, genre, release date, added date, and description.
-## Visual Insights:
+## Key Features:
+- **Interactive Search:** Users can search for movies and TV shows by type, genre, release date, rating, and description.
+- **Visual Insights:**
+  - **Vertical Bar Graph:** Displays the rating distribution of shows and movies.
+  - **Horizontal Bar Graph:** Highlights the top 10 genres.
+  - **Pie Chart:** Visualizes the proportion of movies vs. TV shows.
+  - **Country-wise Map:** Distribution of movies and TV shows by country.
+  - **Word Cloud:** Keywords for countries, genres, ratings, etc.
 
-:Vertical Bar Graph: Rating distribution of Netflix shows and movies.
-:Horizontal Bar Graph: Relationship between top 10 genres and the count of movies and TV shows.
-:Pie Chart: Proportion of movies vs. TV shows.
-:Line Area Graph: Total movies and TV shows released by year.
-:Country-wise Map: Total number of movies and TV shows by country.
-:Word Cloud: Keywords for country, directors, categories, genres, and ratings.
+## Steps Involved:
+1. Data Collection: Gathered Netflix data from online sources.
+2. Data Cleaning: Processed the dataset to handle missing values.
+3. Loading Libraries: Used Tableau for data visualization.
+4. Data Visualization: Created various graphs and charts.
 
 ## Interactive Interface:
 Users can filter the content library based on their preferences, such as genre or type.
